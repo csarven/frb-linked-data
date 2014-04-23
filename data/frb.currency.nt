@@ -1,0 +1,1405 @@
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/2004/02/skos/core#notation> "AED" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/2004/02/skos/core#prefLabel> "United Arab Emirates / United Arab Emirates Dirham"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AED> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/2004/02/skos/core#notation> "AFA" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Afghanistan / Afghani"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AFA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/2004/02/skos/core#notation> "ALL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Albania / Lek"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ALL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/2004/02/skos/core#notation> "AMD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Armenia / Dram"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AMD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/2004/02/skos/core#notation> "ANG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Netherlands / Netherlands Antilles Guilder"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ANG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/2004/02/skos/core#notation> "AOK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Angola / Kwanza"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AOK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/2004/02/skos/core#notation> "AON" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/2004/02/skos/core#prefLabel> "Angola / New Kwanza"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AON> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/2004/02/skos/core#notation> "ARA" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentina / Austral"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/2004/02/skos/core#notation> "ARP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentina / Argentinian Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/2004/02/skos/core#notation> "ARS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Argentina / Argentinian Nuevo Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ARS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/2004/02/skos/core#notation> "ATS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Austria / Austrian Schilling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ATS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/2004/02/skos/core#notation> "AUD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australia / Australian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Australia / U.S. Dollars per Australian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AUD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/2004/02/skos/core#notation> "AWG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aruba / Aruban Guilder"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AWG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/2004/02/skos/core#notation> "AZM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Azerbaijan / Azerbaijani Manat"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/AZM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/2004/02/skos/core#notation> "BAD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bosnia / Bosnian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BAD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/2004/02/skos/core#notation> "BBD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barbados / Barbados Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BBD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/2004/02/skos/core#notation> "BDT" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bangladesh / Taka"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BDT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/2004/02/skos/core#notation> "BEF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belgium / Belgian Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BEF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/2004/02/skos/core#notation> "BFF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burkina Faso / Burkina Faso Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BFF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/2004/02/skos/core#notation> "BGL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bulgaria / Lev"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BGL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/2004/02/skos/core#notation> "BHD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bahrain / Bahraini Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BHD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/2004/02/skos/core#notation> "BIF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Burundi / Burundi Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BIF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/2004/02/skos/core#notation> "BMD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bermuda / Bermudian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BMD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/2004/02/skos/core#notation> "BND" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brunei / Brunei Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BND> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/2004/02/skos/core#notation> "BOB" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolivia / Boliviano"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/2004/02/skos/core#notation> "BOP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bolivia / Bolivian Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/2004/02/skos/core#notation> "BRC" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazil / Cruzeiro"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/2004/02/skos/core#notation> "BRL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazil / Real"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/2004/02/skos/core#notation> "BRR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brazil / Cruzeiro Real"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BRR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/2004/02/skos/core#notation> "BSD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bahamas / Bahamian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BSD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/2004/02/skos/core#notation> "BTN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bhutan / Ngultrum"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BTN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/2004/02/skos/core#notation> "BWP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Botswana / Pula"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BWP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/2004/02/skos/core#notation> "BYR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belarus / Belarussian Rouble"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BYR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/2004/02/skos/core#notation> "BZD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Belize / Belize Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/BZD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/2004/02/skos/core#notation> "CAD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Canada / Canadian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CAD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/2004/02/skos/core#notation> "CDZ" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zaire / New Zaire"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CDZ> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/2004/02/skos/core#notation> "CHF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Switzerland / Swiss Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CHF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/2004/02/skos/core#notation> "CLF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chile / Unidades de Fomento"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/2004/02/skos/core#notation> "CLP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chile / Chilean Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CLP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/2004/02/skos/core#notation> "CNY" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/2004/02/skos/core#prefLabel> "China / Yuan Renminbi"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CNY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/2004/02/skos/core#notation> "COP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Colombia / Colombian Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/COP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/2004/02/skos/core#notation> "CRC" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Costa Rica / Costa Rican Colon"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CRC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/2004/02/skos/core#notation> "CUP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cuba / Cuban Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CUP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/2004/02/skos/core#notation> "CVE" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cape Verde Islands / Escudo Caboverdiano"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CVE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/2004/02/skos/core#notation> "CYP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cyprus / Cypriot Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CYP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/2004/02/skos/core#notation> "CZK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Czech Republic / Czech Koruna"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/CZK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/2004/02/skos/core#notation> "DEM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Germany / Mark"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DEM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/2004/02/skos/core#notation> "DJF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Djibouti / Djibouti Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DJF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/2004/02/skos/core#notation> "DKK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Denmark / Danish Krone"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DKK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/2004/02/skos/core#notation> "DOP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dominican Republic / Dominican Republic Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/2004/02/skos/core#notation> "DZD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Algeria / Algerian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/DZD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/2004/02/skos/core#notation> "EEK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Estonia / Kroon"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EEK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/2004/02/skos/core#notation> "EGP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Egypt / Egyptian Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EGP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/2004/02/skos/core#notation> "ERN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eritrea / Eritrean Nakfa"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ERN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/2004/02/skos/core#notation> "ESP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Spain / Peseta"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ESP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/2004/02/skos/core#notation> "ETB" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ethiopia / Ethiopian Birr"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ETB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/2004/02/skos/core#notation> "EUR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euro Area / Euro (replacement name for the ECU)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euro Area / U.S. Dollars per Euro"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/EUR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/2004/02/skos/core#notation> "FIM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Finland / Marka"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FIM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/2004/02/skos/core#notation> "FJD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiji Islands / Fiji Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FJD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/2004/02/skos/core#notation> "FKP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Falkland Islands / Falkland Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FKP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/2004/02/skos/core#notation> "FRF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/2004/02/skos/core#prefLabel> "France / French Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/FRF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/2004/02/skos/core#notation> "GBP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/2004/02/skos/core#prefLabel> "United Kingdom / Pound Sterling (United Kingdom Pound)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/2004/02/skos/core#prefLabel> "United Kingdom / U.S. Dollars per Pound Sterling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GBP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/2004/02/skos/core#notation> "GEL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Georgia / Lari"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GEL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/2004/02/skos/core#notation> "GHC" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ghana / Cedi"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GHC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/2004/02/skos/core#notation> "GIP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gibraltar / Gibraltar Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GIP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/2004/02/skos/core#notation> "GMD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gambia / Dalasi"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GMD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/2004/02/skos/core#notation> "GNS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guinea / Syli (also known as Guinea Franc)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GNS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/2004/02/skos/core#notation> "GQE" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Equatorial Guinea / Ekwele"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GQE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/2004/02/skos/core#notation> "GRD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Greece / Drachma"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GRD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/2004/02/skos/core#notation> "GTQ" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guatemala / Quetzal"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GTQ> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/2004/02/skos/core#notation> "GWP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guinea-Bissau / Guinea-Bissau Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GWP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/2004/02/skos/core#notation> "GYD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Guyana / Guyana Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/GYD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/2004/02/skos/core#notation> "HKD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hong Kong / Hong Kong Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HKD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/2004/02/skos/core#notation> "HNL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Honduras / Lempira"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HNL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/2004/02/skos/core#notation> "HRD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Croatia / Croatian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/2004/02/skos/core#notation> "HRK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Croatia / Croatian Kuna"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HRK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/2004/02/skos/core#notation> "HTG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Haiti / Gourde"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HTG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/2004/02/skos/core#notation> "HUF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hungary / Forint"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/HUF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/2004/02/skos/core#notation> "IDR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indonesia / Rupiah"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IDR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/2004/02/skos/core#notation> "IEP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ireland / Punt"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IEP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/2004/02/skos/core#notation> "ILS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Israel / Shekel"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ILS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/2004/02/skos/core#notation> "INR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/2004/02/skos/core#prefLabel> "India / Indian Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/INR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/2004/02/skos/core#notation> "IQD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iraq / Iraqi Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IQD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/2004/02/skos/core#notation> "IRR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iran / Iranian Rial"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/IRR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/2004/02/skos/core#notation> "ISK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iceland / Icelandic Krona"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ISK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/2004/02/skos/core#notation> "ITL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Italy / Italian Lira"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ITL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/2004/02/skos/core#notation> "JMD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jamaica / Jamaican Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JMD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/2004/02/skos/core#notation> "JOD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jordan / Jordanian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JOD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/2004/02/skos/core#notation> "JPY" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/2004/02/skos/core#prefLabel> "Japan / Yen"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/JPY> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/2004/02/skos/core#notation> "KES" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kenya / Kenyan Shilling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KES> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/2004/02/skos/core#notation> "KGS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krygyzstan / Kyrgyzstani Som"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KGS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/2004/02/skos/core#notation> "KHR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cambodia / Riel"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KHR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/2004/02/skos/core#notation> "KMF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Comoros / Comorian Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KMF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/2004/02/skos/core#notation> "KPW" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/2004/02/skos/core#prefLabel> "North Korea / Democratic People's Republic of Korean Won"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KPW> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/2004/02/skos/core#notation> "KRW" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/2004/02/skos/core#prefLabel> "South Korea / Republic of Korean Won"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KRW> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/2004/02/skos/core#notation> "KWD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kuwait / Kuwaiti Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KWD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/2004/02/skos/core#notation> "KYD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cayman Islands / Cayman Islands Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KYD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/2004/02/skos/core#notation> "KZT" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kazakstan / Tenge"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/KZT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/2004/02/skos/core#notation> "LAK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Laos / Kip"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LAK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/2004/02/skos/core#notation> "LBP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lebanon / Lebanese Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LBP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/2004/02/skos/core#notation> "LKR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sri Lanka / Sri Lankan Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LKR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/2004/02/skos/core#notation> "LRD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Liberia / Liberian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LRD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/2004/02/skos/core#notation> "LSL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lesotho / Loti"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/2004/02/skos/core#notation> "LSM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lesotho / Maloti"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LSM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/2004/02/skos/core#notation> "LTL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lithuania / Litas"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LTL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/2004/02/skos/core#notation> "LUF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luxembourg / Luxembourg Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LUF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/2004/02/skos/core#notation> "LVL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Latvia / Lat"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LVL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/2004/02/skos/core#notation> "LYD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Libya / Libyan Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/LYD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/2004/02/skos/core#notation> "MAD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Morocco / Moroccan Dirham"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MAD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/2004/02/skos/core#notation> "MDL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moldova / Moldavian Leu"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MDL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/2004/02/skos/core#notation> "MGF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Madagascar / Malagasy Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MGF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/2004/02/skos/core#notation> "MKD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Macedonia / Macedonian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MKD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/2004/02/skos/core#notation> "MLF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mali / Malian Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MLF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/2004/02/skos/core#notation> "MMK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Myanmar / Kyat"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MMK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/2004/02/skos/core#notation> "MNT" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mongolia / Tugrik"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MNT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/2004/02/skos/core#notation> "MOP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Macau / Pataca"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/2004/02/skos/core#notation> "MRO" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mauritania / Ouguiya"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MRO> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/2004/02/skos/core#notation> "MTL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malta / Maltese Lira"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MTL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/2004/02/skos/core#notation> "MUR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mauritius / Mauritius Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MUR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/2004/02/skos/core#notation> "MVR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Maldives / Rufiyaa"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MVR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/2004/02/skos/core#notation> "MWK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malawi / Malawian Kwacha"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MWK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/2004/02/skos/core#notation> "MXN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico / Mexican New Peso (replacement for Mexican Peso)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mexico / Mexican Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MXN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/2004/02/skos/core#notation> "MYR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Malaysia / Ringgit (also known as Malaysian Dollar)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MYR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/2004/02/skos/core#notation> "MZM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mozambique / Metical"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/MZM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/2004/02/skos/core#notation> "NAD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Namibia / Namibian Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NAD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/2004/02/skos/core#notation> "NA" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/2004/02/skos/core#prefLabel> "Not Applicable"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NA> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/2004/02/skos/core#notation> "NGN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nigeria / Naira"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NGN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/2004/02/skos/core#notation> "NIC" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nicaragua / Cordoba"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NIC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/2004/02/skos/core#notation> "NLG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Netherlands / Netherlands Guilder"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NLG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/2004/02/skos/core#notation> "NOK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Norway / Norwegian Krone"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NOK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/2004/02/skos/core#notation> "NPR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nepal / Nepalese Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NPR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/2004/02/skos/core#notation> "NZD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Zealand / New Zealand Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Zealand / U.S Dollars per New Zealand Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/NZD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/2004/02/skos/core#notation> "OMR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oman / Omani Rial"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/OMR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/2004/02/skos/core#notation> "PAB" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Panama / Balboa"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PAB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/2004/02/skos/core#notation> "PEI" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peru / Inti"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEI> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/2004/02/skos/core#notation> "PEN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peru / New Sol"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PEN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/2004/02/skos/core#notation> "PGK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Papua New Guinea / Kina"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PGK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/2004/02/skos/core#notation> "PHP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Philippines / Philippines Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PHP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/2004/02/skos/core#notation> "PKR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pakistan / Pakistani Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PKR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/2004/02/skos/core#notation> "PLN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/2004/02/skos/core#prefLabel> "Poland / New Zloty"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PLN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/2004/02/skos/core#notation> "PTE" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/2004/02/skos/core#prefLabel> "Portugal / Portuguese Escudo"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PTE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/2004/02/skos/core#notation> "PYG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Paraguay / Guarani"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/PYG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/2004/02/skos/core#notation> "QAR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Qatar / Qatari Riyal"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/QAR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/2004/02/skos/core#notation> "ROL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Romania / Romanian Leu"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ROL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/2004/02/skos/core#notation> "RUR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Russia / Russian Federation Rouble"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RUR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/2004/02/skos/core#notation> "RWF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Rwanda / Rwandan Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/RWF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/2004/02/skos/core#notation> "SAR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saudi Arabia / Saudi Riyal"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SAR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/2004/02/skos/core#notation> "SBD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Solomon Islands / Solomon Islands Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SBD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/2004/02/skos/core#notation> "SCR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Seychelles / Seychelles Rupee"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SCR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/2004/02/skos/core#notation> "SDD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sudan / Sudanese Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/2004/02/skos/core#notation> "SDP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sudan / Sudanese Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SDP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/2004/02/skos/core#notation> "SEK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sweden / Swedish Krona"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SEK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/2004/02/skos/core#notation> "SGD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Singapore / Singapore Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SGD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/2004/02/skos/core#notation> "SHP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saint Helena / St Helena Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SHP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/2004/02/skos/core#notation> "SIT" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slovenia / Tolar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SIT> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/2004/02/skos/core#notation> "SKK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Slovakia / Slovak Koruna"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SKK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/2004/02/skos/core#notation> "SLL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sierra Leone / Leone"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SLL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/2004/02/skos/core#notation> "SOS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Somalia / Somali Shilling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SOS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/2004/02/skos/core#notation> "SRG" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/2004/02/skos/core#prefLabel> "Suriname / Surinam Guilder"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SRG> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/2004/02/skos/core#notation> "STD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sao Tome and Principe / Dobra"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/STD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/2004/02/skos/core#notation> "SUR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soviet Union / Union of Soviet Socialist Republics Rouble"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SUR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/2004/02/skos/core#notation> "SVC" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/2004/02/skos/core#prefLabel> "El Salvador / El Salvadorian Colon"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SVC> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/2004/02/skos/core#notation> "SYP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Syria / Syrian Pound"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SYP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/2004/02/skos/core#notation> "SZL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Swaziland / Lilangeni"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/SZL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/2004/02/skos/core#notation> "THB" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Thailand / Baht"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/THB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/2004/02/skos/core#notation> "TJR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tajikistan / Tajik Rouble"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TJR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/2004/02/skos/core#notation> "TMM" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkmenistan / Turkmenistani Manat"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TMM> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/2004/02/skos/core#notation> "TND" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tunisia / Tunisian Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TND> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/2004/02/skos/core#notation> "TOP" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tonga / Pa'anga"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TOP> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/2004/02/skos/core#notation> "TPE" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/2004/02/skos/core#prefLabel> "East Timor / Timorian Escudo"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TPE> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/2004/02/skos/core#notation> "TRL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turkey / Turkish Lira"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TRL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/2004/02/skos/core#notation> "TTD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trinidad and Tobago / Trinidad and Tobago Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TTD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/2004/02/skos/core#notation> "TWD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiwan / Taiwan Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TWD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/2004/02/skos/core#notation> "TZS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tanzania / Tanzanian Shilling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/TZS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/2004/02/skos/core#notation> "UAH" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukraine / Hryvna"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAH> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/2004/02/skos/core#notation> "UAK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ukraine / Karbovanet"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UAK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/2004/02/skos/core#notation> "UGS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uganda / Ugandan Shilling"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UGS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/2004/02/skos/core#notation> "USD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States / United States Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/2004/02/skos/core#notation> "USN" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States / United States Dollar (Next day)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USN> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/2004/02/skos/core#notation> "USS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/2004/02/skos/core#prefLabel> "United States / United States Dollar (Same day)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/USS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/2004/02/skos/core#notation> "UYU" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uruguay / Uruguayan New Peso"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UYU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/2004/02/skos/core#notation> "UZS" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/2004/02/skos/core#prefLabel> "Uzbekistan / Uzbekistani Som"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/UZS> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/2004/02/skos/core#notation> "VEB" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/2004/02/skos/core#prefLabel> "Venezuela / Bolivar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VEB> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/2004/02/skos/core#notation> "VND" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vietnam / Viet Nam Dong"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VND> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/2004/02/skos/core#notation> "VUV" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanuatu / Vatu"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/VUV> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/2004/02/skos/core#notation> "WST" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/2004/02/skos/core#prefLabel> "Samoa / Tala"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/WST> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/2004/02/skos/core#notation> "XAF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franc de la Communaute financiere africaine"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/2004/02/skos/core#notation> "XAU" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gold"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XAU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/2004/02/skos/core#notation> "XCD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/2004/02/skos/core#prefLabel> "East Caribbean Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XCD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/2004/02/skos/core#notation> "XDR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/2004/02/skos/core#prefLabel> "International Monetary Fund Special Drawing Rights"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XDR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/2004/02/skos/core#notation> "XEU" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/2004/02/skos/core#prefLabel> "Euro Area / ECU"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XEU> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/2004/02/skos/core#notation> "XOF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/2004/02/skos/core#prefLabel> "West Africa / West African Franc"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XOF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/2004/02/skos/core#notation> "XPF" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/2004/02/skos/core#prefLabel> "Franc des Comptoirs francais du Pacifique"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/XPF> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/2004/02/skos/core#notation> "YDD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yemen / South Yemeni Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YDD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/2004/02/skos/core#notation> "YER" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yemen / Yemeni Riyal"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YER> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/2004/02/skos/core#notation> "YUD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Yugoslavia / Yugoslavian New Dinar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/YUD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/2004/02/skos/core#notation> "ZAL" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/2004/02/skos/core#prefLabel> "South Africa / Rand (financial)"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAL> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/2004/02/skos/core#notation> "ZAR" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/2004/02/skos/core#prefLabel> "South Africa / Rand"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZAR> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/2004/02/skos/core#notation> "ZMK" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zambia / Zambian Kwacha"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZMK> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://frb.270a.info/class/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/linked-data/sdmx#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/2004/02/skos/core#inScheme> <http://frb.270a.info/code/1.0/CL_CURRENCY> .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/2004/02/skos/core#notation> "ZWD" .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zimbabwe / Zimbabwe Dollar"@en .
+<http://frb.270a.info/code/1.0/CL_CURRENCY/ZWD> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://frb.270a.info/code/1.0/CL_CURRENCY> .

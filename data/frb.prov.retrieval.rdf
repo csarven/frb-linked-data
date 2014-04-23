@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:sdmx="http://purl.org/linked-data/sdmx#">
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215939">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:39Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:45Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=CHGDEL&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/CHGDEL_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved CHGDEL Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset CHGDEL retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215939">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:39Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:45Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=CHGDEL&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/CHGDEL_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved CHGDEL Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset CHGDEL retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215945">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:45Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:56Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=CP&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/CP_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved CP Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset CP retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215945">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:45Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:56Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=CP&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/CP_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved CP Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset CP retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215956">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:56Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:03Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=E2&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/E2_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved E2 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset E2 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421215956">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T21:59:56Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:03Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=E2&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/E2_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved E2 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset E2 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220003">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:03Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:08Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=FOR&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/FOR_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved FOR Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset FOR retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220003">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:03Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:08Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=FOR&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/FOR_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved FOR Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset FOR retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220008">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:08Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:24Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G17&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G17_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G17 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset G17 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220008">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:08Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:24Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G17&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G17_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G17 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset G17 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220024">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:24Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:30Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G19&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G19_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G19 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset G19 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220024">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:24Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:30Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G19&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G19_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G19 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset G19 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220030">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:30Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:36Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G20&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G20_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G20 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset G20 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220030">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:30Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:36Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=G20&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/G20_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved G20 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset G20 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220036">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:36Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:43Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H10&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H10_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H10 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H10 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220036">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:36Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:43Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H10&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H10_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H10 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H10 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220043">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:43Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:54Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H15&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H15_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H15 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H15 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220043">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:43Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:54Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H15&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H15_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H15 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H15 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220054">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:54Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:01Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H3&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H3_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H3 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H3 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220054">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:00:54Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:01Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H3&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H3_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H3 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H3 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220101">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:01Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:25Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H41&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H41_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H41 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H41 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220101">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:01Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:25Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H41&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H41_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H41 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H41 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220125">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:25Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:37Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H6&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H6_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H6 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H6 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220125">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:25Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:37Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H6&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H6_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H6 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H6 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220137">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:37Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:05Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H8&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H8_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H8 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset H8 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220137">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:01:37Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:05Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=H8&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/H8_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved H8 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset H8 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220205">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:05Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:11Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=SLOOS&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/SLOOS_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved SLOOS Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset SLOOS retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220205">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:05Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:11Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=SLOOS&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/SLOOS_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved SLOOS Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset SLOOS retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220211">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:11Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:03:53Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=Z1&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/Z1_data.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved Z1 Data</rdfs:label>
+                    <rdfs:comment xml:lang="en">Data of dataset Z1 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+                <rdf:Description rdf:about="http://frb.270a.info/provenance/activity/20140421220211">
+                    <rdf:type rdf:resource="http://www.w3.org/ns/prov#Activity"/>
+                    <prov:startedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:02:11Z</prov:startedAtTime>
+                    <prov:endedAtTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-04-21T22:03:53Z</prov:endedAtTime>
+                    <prov:wasAssociatedWith rdf:resource="http://csarven.ca/#i"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/wget"/>
+                    <prov:used rdf:resource="https://launchpad.net/ubuntu/+source/unzip"/>
+                    <prov:used rdf:resource="http://www.federalreserve.gov/DataDownload/Output.aspx?rel=Z1&amp;filetype=zip"/>
+                    <prov:generated rdf:resource="http://frb.270a.info/data/Z1_struct.xml"/>
+                    <rdfs:label xml:lang="en">Retrieved Z1 Structure</rdfs:label>
+                    <rdfs:comment xml:lang="en">Structure of dataset Z1 retrieved from source and saved to local filesystem.</rdfs:comment>
+                </rdf:Description>
+
+</rdf:RDF>
