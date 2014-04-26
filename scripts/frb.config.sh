@@ -9,12 +9,13 @@ agency="frb";
 state=""; #".staging" or ''
 data="/data/$agency-linked-data/data$state/";
 provRetrieval="$data""$agency"".prov.retrieval.rdf";
-#xslDocument="/home/sarcap/linked-sdmx/scripts/generic.xsl";
-xslDocument="/var/www/linked-sdmx/scripts/generic.xsl";
+xslDocument="/home/sarcap/linked-sdmx/scripts/generic.xsl";
+#xslDocument="/var/www/linked-sdmx/scripts/generic.xsl";
 namespace="http://$agency.270a.info/";
-db="/data/$agency-linked-data/tdb$state/";
+#db="/data/$agency-linked-data/tdb$state/";
+db="/SSD/data/tdb/db/$agency$state/";
 tdbAssembler="/usr/lib/fuseki/tdb.$agency$state.ttl";
-JVM_ARGS="-Xmx8000M"
+JVM_ARGS="-Xmx16000M"
 javatdbloader="java $JVM_ARGS tdb.tdbloader --desc=$tdbAssembler";
 void="/var/www/$agency.270a.info/void$state.ttl";
 voidInit="$agency.void.init.ttl";
